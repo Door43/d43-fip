@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fip:home|Door43 (fip)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fip|d43-fip repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fip/archive/master.zip|d43-fip.zip]]
+
+**Recent Changes**
+{{changes>ns = fip}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fip|Ethnologue data]]
+
